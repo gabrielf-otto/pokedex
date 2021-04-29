@@ -1,4 +1,4 @@
-# learn
+# pokedex
 
 ## Project setup
 ```
